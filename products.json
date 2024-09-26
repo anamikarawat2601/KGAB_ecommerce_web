@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Kalera Brahma Rasayan",
+      "category": "Medicine",
+      "brand": "Krishan Gopal Ayurved Bhawan ",
+      "price": 230,
+      "stock": 50,
+      "description": "Krishan Gopal Ayurved Bhawan (Kalera Brahma Rasayan (500gm) )",
+      "image": "../images/image1.png"
+    },
+    {
+      "id": 2,
+      "name": "Kalera Brahma Rasayan",
+      "category": "Medicine",
+      "brand": "Krishan Gopal Ayurved Bhawan ",
+      "price": 230,
+      "stock": 50,
+      "description": "Krishan Gopal Ayurved Bhawan (Kalera Brahma Rasayan (500gm) )",
+      "image": "../images/image1.png"
+    },
+    {
+      "id": 3,
+      "name": "Kalera Brahma Rasayan",
+      "category": "Medicine",
+      "brand": "Krishan Gopal Ayurved Bhawan ",
+      "price": 230,
+      "stock": 50,
+      "description": "Krishan Gopal Ayurved Bhawan (Kalera Brahma Rasayan (500gm) )",
+      "image": "../images/image1.png"
+    },
+    {
+      "id": 4,
+     "name": "Kalera Brahma Rasayan",
+      "category": "Medicine",
+      "brand": "Krishan Gopal Ayurved Bhawan ",
+      "price": 230,
+      "stock": 50,
+      "description": "Krishan Gopal Ayurved Bhawan (Kalera Brahma Rasayan (500gm) )",
+      "image": "../images/image1.png"
+    },
+    {
+      "id": 5,
+      "name": "Kalera Brahma Rasayan",
+      "category": "Medicine",
+      "brand": "Krishan Gopal Ayurved Bhawan ",
+      "price": 230,
+      "stock": 50,
+      "description": "Krishan Gopal Ayurved Bhawan (Kalera Brahma Rasayan (500gm) )",
+      "image": "../images/image1.png"
+    },
+    {
+      "id": 6,
+     "name": "Kalera Brahma Rasayan",
+      "category": "Medicine",
+      "brand": "Krishan Gopal Ayurved Bhawan ",
+      "price": 230,
+      "stock": 50,
+      "description": "Krishan Gopal Ayurved Bhawan (Kalera Brahma Rasayan (500gm) )",
+      "image": "../images/image1.png"
+    }
+  ]
